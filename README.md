@@ -2,7 +2,6 @@
 <!--
 **mdalimz/mdalimz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
- # This is Ali, currently working on my thesis project.
  👯 I’m looking to collaborate on Quantum Computation 
 <!--
 - 🤔 I’m looking for help with ...
